@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\bin\Debug\T19_Ex1.exe.config
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\bin\Debug\T19_Ex1.exe
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\bin\Debug\T19_Ex1.pdb
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.Saludador.resources
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.Message.resources
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.Properties.Resources.resources
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.exe
+C:\Users\victo\source\repos\T19_Ex1\T19_Ex1\obj\Debug\T19_Ex1.pdb
