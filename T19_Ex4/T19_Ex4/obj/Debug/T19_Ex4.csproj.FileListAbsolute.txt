@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\bin\Debug\T19_Ex4.exe.config
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\bin\Debug\T19_Ex4.exe
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\bin\Debug\T19_Ex4.pdb
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.MiniCalculadora.resources
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.Properties.Resources.resources
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.exe
+C:\Users\victo\source\repos\T19_Ex4\T19_Ex4\obj\Debug\T19_Ex4.pdb
